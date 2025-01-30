@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML: using `innerHtml` instead of the correct `innerHTML` property.  While many code editors might not highlight this as an error, it silently fails, leading to unexpected results and debugging challenges.  This example shows the incorrect usage and its solution.
